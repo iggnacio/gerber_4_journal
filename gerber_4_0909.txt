@@ -1,0 +1,1 @@
+we linked are git hub to our pc to acces repos on are pc over comandline.
