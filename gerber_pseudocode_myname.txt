@@ -18,6 +18,27 @@ Begin:
 
 	method T
 	draw up 5
-	draw left 2.5
-	draw right
+	move left 2.5
+	draw right 5
+
+	method H
+	draw up 5
+	move down 2.5
+	draw rigth 2.5
+	move up 2.5
+	draw down 5
+
+	main:
+	do N
+	move 2.5
+	do A
+	move 2.5
+	do T
+	move 2.5
+	do H
+	move 2.5
+	do A
+	move 2.5
+	do N
+	
 	
