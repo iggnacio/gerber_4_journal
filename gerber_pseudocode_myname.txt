@@ -1,0 +1,23 @@
+Begin:
+	input name to string
+	print A
+
+Begin:
+
+	method N
+	draw up 5
+	draw across 5
+	draw down 5
+
+	method A
+	draw up 5
+	draw down 2
+	do 2 times
+	draw across 2
+	drow down 3
+
+	method T
+	draw up 5
+	draw left 2.5
+	draw right
+	

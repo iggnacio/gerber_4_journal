@@ -1,0 +1,7 @@
+the step of problem solving
+	1. Define problem
+	2. Brainstorm
+	3. Decide solution
+	4. Implement
+	5. Evaulate
+
