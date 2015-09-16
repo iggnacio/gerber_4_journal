@@ -1,0 +1,2 @@
+An IDE is an itagrated development enviorment intagrates a compiler, text editor, and debuger in one. An IDE is important becuse it helps us debug and compile faster than text and type and it lets you work on multiple file or big 
+projects.

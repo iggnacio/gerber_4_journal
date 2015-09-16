@@ -1,5 +1,5 @@
 void setup() {
-  size(1230, 1100);
+  size(1230, 900);
 }
 
 void draw() {
@@ -16,7 +16,7 @@ void draw() {
   float y = random(500);
   
   float xx = random(1230);
-  float yy = random(1100);
+  float yy = random(900);
   
   float tl = random(50);
   float tr = random(50);
