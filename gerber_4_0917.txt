@@ -1,0 +1,1 @@
+ther are five different java data types to hold diffrant information such as strings,charictor,and number in base 10,3, and 16
