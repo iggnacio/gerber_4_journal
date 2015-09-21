@@ -1,0 +1,5 @@
+yes i have rcived grades for journals.
+
+it is important to help destingush files and who they belong to or what they do by the file name.
+
+cp or cp /(directory tranfering from) /(directory path)
