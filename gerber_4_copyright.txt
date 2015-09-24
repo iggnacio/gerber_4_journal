@@ -1,0 +1,35 @@
+copyright - the legal right to reproduce or distribute.
+
+copyleft - the freedom of coying or distrabution in which the author is given credit.
+
+fair use - the right to use limited amounts of a copyrighted work without consent. 
+
+free speech - is the first amendment  of the u.s. constution disallow congress to pass laws to ban peoples words or opinions.
+
+free software - allows users to edit, run, and redistribute software the way thay please.
+
+freeware - is software that has released source code that may be monotized.
+
+public domain - is the clasifaction of works not protected by copyright laws.
+
+file-sharing - the act of sharing data between computers.
+
+piracy - the illegal act of obtaing copyrighted matireals.
+
+plagiarism - the stealing of copyrighted work that does not cite the source.
+
+infringement - is the act of voilateing the copyright law on copyrighted work.
+
+proprietary - software in whitch the owner has placed major restrions on there software.
+
+open source - is software with no restrictions on the user to edit or share.
+
+GNU GPL - is the licence to protect users rights to use open source software.
+
+MIT license -  It is a permissive free software license, meaning that it permits reuse within proprietary software provided all copies of the licensed software include a copy of the MIT License terms and the copyright notice.
+
+Apache License - is a free software license written by the Apache Software Foundation (ASF). The Apache License requires preservation of the copyright notice and disclaimer.
+
+EULA - is a legal contract between a software application author or publisher and the user of that application.
+
+creative commons - it allows people to build on others works.
