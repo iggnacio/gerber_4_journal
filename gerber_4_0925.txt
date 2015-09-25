@@ -1,0 +1,19 @@
+paid licencse - is a pre-paid royaties licence
+
+shareware - is a propriotry software which is freely shared for distrobution
+
+trialware - is software with a trial
+
+ad-ware - software with automatic ads
+
+crippleware - software with basic functions until you pay
+
+freemium - free software with paid options
+
+freeware - free software with restrictions
+
+richard stallman - is the founder of the opensource movement and gnu
+
+lawrence lessig - is a netnutrality activis who has testifyed in congress
+
+eben moglen - is an activist for free software for a balnced internet

@@ -33,3 +33,5 @@ Apache License - is a free software license written by the Apache Software Found
 EULA - is a legal contract between a software application author or publisher and the user of that application.
 
 creative commons - it allows people to build on others works.
+
+gpl - software and changes must be open source
