@@ -1,0 +1,6 @@
+use for loops to count
+
+use % and for loops to count the nubers to devide by
+
+find the nubers divded in for loop
+
