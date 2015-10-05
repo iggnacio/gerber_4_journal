@@ -1,0 +1,1 @@
+code commits are good for you to remeber notes or what a section of code does and helps others understand what it does
