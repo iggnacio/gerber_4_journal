@@ -1,0 +1,8 @@
+methods are functions executed inside the class
+
+classes are sets of methods
+
+an instance is an object in the program
+
+class spacific methods
+
