@@ -1,0 +1,6 @@
+a java class is a class in java
+
+a java class for java javafx helps identafy javafx peramiters
+
+a method is excuted code in class
+
