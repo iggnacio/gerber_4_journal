@@ -1,0 +1,10 @@
+i plane to make a 3d cube
+
+cube, mesh, background, rotation
+
+diffrent x, y values
+
+cube condition
+
+division
+
