@@ -1,0 +1,12 @@
+digraph simple_map{
+a [label="start"]
+b [label="b"]
+c [label="c"]
+d [label="d"]
+
+a->b [label="commands", font=darkgreen]
+b -> c
+b -> d
+b -> e
+e -> f
+}

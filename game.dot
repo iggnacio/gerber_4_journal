@@ -1,0 +1,21 @@
+digraph {
+start [label="start"]
+north [label="north"]
+south [label="south"]
+west  [label="west"]
+east  [label="east"]
+fight [label="fight"]
+end   [label="end"]
+open  [label="open door"]
+deadend
+
+start -> north
+start -> south
+start -> east
+start -> west
+
+north -> open
+
+
+
+}

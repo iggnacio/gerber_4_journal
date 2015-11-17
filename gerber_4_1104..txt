@@ -1,0 +1,7 @@
+a method is like a factory worker.
+
+the worker is good a one task you use him in that task.
+
+a while loop tells the worker how many times to do the task till its complete
+
+i use a while loop to controll guess and i used the counter to take trys away.

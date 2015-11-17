@@ -1,0 +1,5 @@
+player must find who he is
+
+he can check if he fineshed by a boolean variable
+
+findshovel

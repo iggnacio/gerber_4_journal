@@ -1,0 +1,3 @@
+you can track the charictors progress by setting boolens for events trigered
+hp can be tracked by an int
+items can be tracked by booleans
