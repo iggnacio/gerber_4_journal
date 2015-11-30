@@ -1,0 +1,3 @@
+i will use loops in my game for the rrepetitive moves of combat to help move it along
+
+i will use methods for read and write to files, rooms, and diffrent sections of the game
