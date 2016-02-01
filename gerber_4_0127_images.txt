@@ -1,0 +1,3 @@
+you add an image by declaring an image object and the pointing at a file related to an image
+
+the image is drawn in render and update changes the image based on events

@@ -1,0 +1,5 @@
+a class constructer defines what verables a class object will contain
+
+the orbs should have distance and damge
+
+the orbs should have a hit detection and mana meter
