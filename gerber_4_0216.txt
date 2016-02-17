@@ -1,0 +1,2 @@
+ann arry was used to hold multiple cordance to be refranced later in the code
+use an narrya to track the number of ai in game

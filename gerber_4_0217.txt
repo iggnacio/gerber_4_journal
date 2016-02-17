@@ -1,0 +1,28 @@
+What are arrays used for?
+hold multiple values for one variables
+
+What is the code for an int array?
+
+int[] anarray;
+
+What is the code for an String array?
+String[] anarray;
+
+What is the code for an boolean array?
+boolean[] anarray;
+
+What is the code for an double array?
+double[] anarray;
+
+How would you change the first value of the int array to 42?
+anarray[1] = 42;
+Of the String array to "Bob"?
+String bob = array;
+What does this do: private String[] dessert = new String[3];
+creats 3 strings
+What does this do: private String[] postres = {"rice pudding", "pan dulce", "bunuelos"}
+declares values of 3 strings in an array
+How are they different?
+one is alocating size two is delearing values
+How would we replace "bunuelos" with "apple pie"?
+the thre string in the array would equal apple pie
