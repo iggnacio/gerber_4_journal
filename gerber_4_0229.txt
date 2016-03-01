@@ -1,0 +1,23 @@
+1. How do we make a class? What code comes at the beginning?
+class bla{}
+
+2. Donut Bismarck = new Donut();
+is this a class constructor?
+no
+
+3. How do we make a class with values and a class constructor?
+public class bla{
+int x,y;
+
+public bla(int a,int b){this.x = a, this.y = b;}
+}
+4. Explain in your own words - what is a getter? what does it do?
+a getter retives values of an object whitin a class
+
+5. What is a setter? what does it do? Give an example.
+a setter sets the values of an object whitin a class
+
+
+6. What is in An array of Breakfast? How would you create one?
+int[] beakfast;
+
