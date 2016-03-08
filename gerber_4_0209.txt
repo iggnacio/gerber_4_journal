@@ -1,0 +1,7 @@
+How can / will you make the orb move in the direction you are facing?
+public void setLocation(int a, int b, Player player) {
+        this.setX((int)player.x);
+        this.setY((int)player.y);
+        this.setHitboxX((int)player.x + 20);
+        this.setHitboxY((int)player.y - 40);
+    }
