@@ -1,1 +1,5 @@
 display the output in console
+of the intersection
+if(player.rectinersect){
+System.out.println("hit");
+}
