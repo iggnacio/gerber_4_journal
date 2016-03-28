@@ -1,0 +1,17 @@
+Arduino uses a variant of the C programming language.
+
+What differences and similarites have you noticed? Provide at least 3 and explain in complete sentences.
+the import are called includes, there are two difrent file types headers and c the output is called printf
+
+What code adaptations have you made? [Or will you make if none to date. Note: 'none' is not a valid answer]
+i have learned to set pins for out put of voltage
+What is required for a circuit?
+a full conect from positive and negative
+How are programs compiled with Arduino?
+they are compiled in to hex files than flashed
+Describe the projects you have completed this/last week and what you have learned from them. Descriptions should be _at least_ one full paragraph in length.
+i have leared that computers are a network of complicated microcontrollers desined with specific task. the design is craefuly planed out whith secoization of excuted programs to work in harmaney.
+You will be completing your own project - a project of your own design that accepts user input and provides light and sound in some way.
+i will create a radio comunication device to comunicaate with sattilites and other radios
+Describe your project and the code adaptations you will have to make. [Note - 'none' is not a valid answer. For example, there is a 'Simon' game provided - using that code would earn a '0' because it is 0% your code.]
+i will have to use i2c tom comunicate with all the componets of my device to rellay messages between radios
