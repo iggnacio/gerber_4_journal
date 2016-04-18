@@ -1,0 +1,9 @@
+assembly is a low level programing langue whitch deals with registers.
+
+assembly is good for hardwere codeing.
+
+high level langes deal with objects and predefined terms while low leves are closer to machine code
+
+java is a higher level langue because it has predefine vriables with set amounts
+
+assembly is a low level langue because you have to define were the code is being programed in memory
