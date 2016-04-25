@@ -1,0 +1,14 @@
+
+    We will have an end of the year assessment.
+    What are 10 concepts you believe will be covered on the test. Why?
+
+- for loops
+- data types
+- methods
+- classes
+- file locations
+- sudo code
+- object orrented
+- hardwere v softwere
+- bash
+- syntax
